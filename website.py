@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
-import mathst.title("Mortgage Repayments Calculator")
 
 st.write("### Input Data")
 col1, col2 = st.columns(2)
